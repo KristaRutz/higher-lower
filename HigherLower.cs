@@ -13,6 +13,8 @@ public class Program
     public static void Main()
     {
 
+        Minimum = 0;
+        Maximum = 101;
         Random rnd = new Random();
         gameNumber = rnd.Next(0, 101);
 
