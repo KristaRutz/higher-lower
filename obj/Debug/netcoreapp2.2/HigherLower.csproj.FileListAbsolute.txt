@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/combined-higher-lower/bin/Debug/netcoreapp2.2/HigherLower.deps.json
+/Users/Guest/Desktop/combined-higher-lower/bin/Debug/netcoreapp2.2/HigherLower.runtimeconfig.json
+/Users/Guest/Desktop/combined-higher-lower/bin/Debug/netcoreapp2.2/HigherLower.runtimeconfig.dev.json
+/Users/Guest/Desktop/combined-higher-lower/bin/Debug/netcoreapp2.2/HigherLower.dll
+/Users/Guest/Desktop/combined-higher-lower/bin/Debug/netcoreapp2.2/HigherLower.pdb
+/Users/Guest/Desktop/combined-higher-lower/obj/Debug/netcoreapp2.2/HigherLower.csprojAssemblyReference.cache
+/Users/Guest/Desktop/combined-higher-lower/obj/Debug/netcoreapp2.2/HigherLower.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/combined-higher-lower/obj/Debug/netcoreapp2.2/HigherLower.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/combined-higher-lower/obj/Debug/netcoreapp2.2/HigherLower.AssemblyInfo.cs
+/Users/Guest/Desktop/combined-higher-lower/obj/Debug/netcoreapp2.2/HigherLower.dll
+/Users/Guest/Desktop/combined-higher-lower/obj/Debug/netcoreapp2.2/HigherLower.pdb
